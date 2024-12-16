@@ -23,8 +23,8 @@ Modulul RTC ofera functionalitatea unui ceas in timp real, mentinand ora exacta 
 
 Hardware Design
 ![8b94dea0-598f-4c97-b3d4-81f6dfb152b3 (1)](https://github.com/user-attachments/assets/c1ff5f3b-906e-4793-9662-47f1eb9c2345)
-![6bbd797a-9f6f-41b3-a8e4-d4beca5467a0 (1)](https://github.com/user-attachments/assets/a61d1105-6596-4873-8a5d-1a87aab2a0ed)
-
+![WhatsApp Image 2024-12-16 at 20 36 33_5d730e9b](https://github.com/user-attachments/assets/5309e52f-63d9-4d59-8b55-574bd87091d5)
+![WhatsApp Image 2024-12-16 at 20 36 33_d19e81ab](https://github.com/user-attachments/assets/bad9d155-81be-4bff-88c1-8e0d59f2d3f0)
 
 Software Design
 
