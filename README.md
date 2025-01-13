@@ -27,6 +27,7 @@ Hardware Design
 ![WhatsApp Image 2024-12-16 at 20 36 33_d19e81ab](https://github.com/user-attachments/assets/bad9d155-81be-4bff-88c1-8e0d59f2d3f0)
 
 Software Design
+```
 #include <LiquidCrystal.h>
 
 
@@ -173,7 +174,7 @@ void printTime(int h, int m) {
   lcd.print(":");
   lcd.print(m < 10 ? "0" : ""); lcd.print(m);
 }
-
+```
 
 Rezultate Obţinute
 
